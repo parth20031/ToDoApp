@@ -32,7 +32,6 @@ header {
 
 .title {
     color: #333;
-    /* color: white; */
     font-size: 2.5rem;
     font-weight: bold;
     text-transform: uppercase;
@@ -76,7 +75,7 @@ header {
 }
 
 #addTask:hover {
-    background: linear-gradient(to right, #6A1B9A, #4A148C); /* Darker purple on hover */
+    background: linear-gradient(to right, #6A1B9A, #4A148C); 
 }
 
 
